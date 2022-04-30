@@ -34,6 +34,7 @@ public class Main {
                         break;
                     case 2:
                         System.out.println("Has seleccionado la opcion 2");
+                        Problema2 nu1 = new Problema2();
                         break;
                     case 3:
                         System.out.println("Has seleccionado la opcion 3");
@@ -50,6 +51,4 @@ public class Main {
             }
         }
     }
-
-
 }
